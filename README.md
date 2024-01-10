@@ -3,6 +3,9 @@
 visit the Website: https://foodiebyvipul.netlify.app/
 
 Welcome to Foodie, a delightful food website built with React JS that brings you a seamless and enjoyable food exploration experience. This project leverages the power of React, Redux Toolkit (RTK), and Hooks to provide a rich user interface with features like filters, a shopping cart, and more.
+![Untitled](https://github.com/vipulghadi/Foodie_React_Project/assets/99540970/9df02d13-335f-45a6-86e9-e0d4a002821a)
+![hero](https://github.com/vipulghadi/Foodie_React_Project/assets/99540970/ee6d330c-cae9-48e1-84e9-11c9ad00e9f0)
+![icons-hero](https://github.com/vipulghadi/Foodie_React_Project/assets/99540970/0e068af3-1407-423a-85b3-eaa8ad8ab745)
 
 
 ## Introduction
